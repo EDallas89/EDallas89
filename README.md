@@ -1,8 +1,19 @@
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/inmsanz89)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:inmsanz89@gmail.com)
+<p>
+<a href="https://twitter.com/inmsanz89"> 
+  <img alt="Twitter" width="22px" src="assets/twitter.svg" />
+</a>
+<a href="mailto:inmsanz89@gmail.com">
+  <img alt="Gmail" width="22px" src="assets/gmail.svg" />
+</a>
+<a href="https://linkedin.com">
+  <img alt="LinkedIn" width="22px" src="assets/linkedin.svg" />
+</a>
+<a href="https://telegram.me/edallas">
+  <img alt="Telegram" width="22px" src="assets/telegram.svg" />
+</a>
 <img align="right" src="https://komarev.com/ghpvc/?username=edallas89&label=Profile%20views&color=0e75b6&style=flat" alt="edallas89" /> 
-
 </p>
+
 <h1 align="center">Hi, I'm Inma</h1>
 <h3 align="center">A junior developer passionate about learning and improving</h3>
 
