@@ -1,20 +1,22 @@
+<link href="style.css" rel="stylesheet"></link> 
 <p>
 <a href="https://twitter.com/inmsanz89"> 
-  <img alt="Twitter" width="22px" src="assets/twitter.svg" />
+  <img alt="Twitter" width="25px" src="assets/twitter.svg" />
 </a>
 <a href="mailto:inmsanz89@gmail.com">
-  <img alt="Gmail" width="22px" src="assets/gmail.svg" />
+  <img alt="Gmail" width="25px" src="assets/gmail.svg" />
 </a>
 <a href="https://linkedin.com">
-  <img alt="LinkedIn" width="22px" src="assets/linkedin.svg" />
+  <img alt="LinkedIn" width="25px" src="assets/linkedin.svg" />
 </a>
 <a href="https://telegram.me/edallas">
-  <img alt="Telegram" width="22px" src="assets/telegram.svg" />
+  <img alt="Telegram" width="25px" src="assets/telegram.svg" />
 </a>
 <img align="right" src="https://komarev.com/ghpvc/?username=edallas89&label=Profile%20views&color=0e75b6&style=flat" alt="edallas89" /> 
 </p>
 
-<h1 align="center">Hi, I'm Inma</h1>
+<h1 align="center" class="rainbow rainbow_text_animated">Hi, I'm Inma<img align="center" src="https://media.giphy.com/media/TG0Hc5rqnP28M/giphy.gif" width="50"></h1>
+
 <h3 align="center">A junior developer passionate about learning and improving</h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edallas89&show_icons=true&locale=en&layout=compact" alt="edallas89" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edallas89&show_icons=true&locale=en" alt="edallas89" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edallas89&" alt="edallas89" /></p>
