@@ -84,6 +84,5 @@
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=edallas89&show_icons=true&title_color=5E10F0&hide_border=true&locale=en" alt="edallas89" />
-  &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edallas89&show_icons=true&title_color=5E10F0&hide_border=true&locale=en&layout=compact" alt="edallas89"/>   
 </div>
