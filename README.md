@@ -15,8 +15,8 @@
 </p>
 
 <h1 align="center">
-  <img src="assets/title.svg" width="350" >
-  <img src="https://media.giphy.com/media/TG0Hc5rqnP28M/giphy.gif" width="50">
+  <img src="assets/title.svg" width="350">
+  <img src="https://media.giphy.com/media/TG0Hc5rqnP28M/giphy.gif" width="70">
 </h1>
 
 <h3 align="center">A junior developer passionate about learning and improving</h3>
