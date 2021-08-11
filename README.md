@@ -28,8 +28,8 @@
 
 <table align="center">
   <tr align="center">
-    <td><h4>Programming Languages</h4></td>
-    <td><h4>Frontend Development</h4></td>
+    <td width="200"><h4>Languages</h4></td>
+    <td width="200"><h4>Frontend</h4></td>
   </tr>
   <tr>
     <td align="center">
@@ -47,8 +47,8 @@
 
 <table align="center">
   <tr align="center">
-    <td><h4>DevOps</h4></td>
-    <td><h4>Database</h4></td>
+    <td width="200"><h4>DevOps</h4></td>
+    <td width="200"><h4>Database</h4></td>
   </tr>
   <tr>
     <td align="center">
@@ -62,12 +62,12 @@
       <a href="https://www.postgresql.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"             alt="postgresql" width="40" height="40"/> </a> 
     </td>
   </tr>
-<table>
+</table>
 
 <table align="center">
   <tr align="center">
-    <td><h4>Operating Systems</h4></td>
-    <td><h4>Code Editor</h4></td>
+    <td width="200"><h4>Operating Systems</h4></td>
+    <td width="200"><h4>Code Editors</h4></td>
   </tr>
   <tr>
     <td align="center">
@@ -80,5 +80,10 @@
   </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edallas89&show_icons=true&locale=en&layout=compact" alt="edallas89" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edallas89&show_icons=true&locale=en" alt="edallas89" /></p>
+<br>
+
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edallas89&show_icons=true&title_color=5E10F0&hide_border=true&locale=en" alt="edallas89" />
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edallas89&show_icons=true&title_color=5E10F0&hide_border=true&locale=en&layout=compact" alt="edallas89"/>   
+</div>
