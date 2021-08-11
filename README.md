@@ -1,4 +1,3 @@
-<link href="style.css" rel="stylesheet"></link> 
 <p>
 <a href="https://twitter.com/inmsanz89"> 
   <img alt="Twitter" width="25px" src="assets/twitter.svg" />
@@ -15,7 +14,10 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=edallas89&label=Profile%20views&color=0e75b6&style=flat" alt="edallas89" /> 
 </p>
 
-<h1 align="center" class="rainbow rainbow_text_animated">Hi, I'm Inma<img align="center" src="https://media.giphy.com/media/TG0Hc5rqnP28M/giphy.gif" width="50"></h1>
+<h1 align="center">
+  <img src="assets/title.svg" width="350" >
+  <img src="https://media.giphy.com/media/TG0Hc5rqnP28M/giphy.gif" width="50">
+</h1>
 
 <h3 align="center">A junior developer passionate about learning and improving</h3>
 
