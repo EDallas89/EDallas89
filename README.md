@@ -5,7 +5,7 @@
   <a href="mailto:inmsanz89@gmail.com">
     <img alt="Gmail" width="25px" src="assets/gmail.svg" />
   </a>
-  <a href="www.linkedin.com/in/inma-sánchez">
+  <a href="https://www.linkedin.com/in/inma-sánchez">
     <img alt="LinkedIn" width="25px" src="assets/linkedin.svg" />
   </a>
   <a href="https://telegram.me/edallas">
