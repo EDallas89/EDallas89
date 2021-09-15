@@ -1,7 +1,4 @@
 <p>
-  <a href="https://twitter.com/inmsanz89"> 
-    <img alt="Twitter" width="25px" src="assets/twitter.svg" />
-  </a>
   <a href="mailto:inmsanz89@gmail.com">
     <img alt="Gmail" width="25px" src="assets/gmail.svg" />
   </a>
