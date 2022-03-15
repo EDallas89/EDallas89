@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/inma-sánchez">
     <img alt="LinkedIn" width="25px" src="assets/linkedin.svg" />
   </a>
-  <a href="https://telegram.me/edallas">
-    <img alt="Telegram" width="25px" src="assets/telegram.svg" />
-  </a>
   <img align="right" src="https://komarev.com/ghpvc/?username=edallas89&label=Profile%20views&color=0e75b6&style=flat" alt="edallas89" /> 
 </p>
 
