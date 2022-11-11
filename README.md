@@ -15,7 +15,6 @@
 
 <p align="center">
   I am a junior developer passionate about learning and improving my skills.<br>
-  I'm studing a Superior Degree in Multi-Platform Application Development, I'm in my last year.<br>
   I worked for a year developing modules with Python for an ERP and using Docker instances.<br>
   Nowday, I continue using Docker instances and I work  developing apps with Elixir and Phoenix.
 </p>
